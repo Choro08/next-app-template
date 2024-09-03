@@ -1,21 +1,21 @@
 # NextJS App Template
 
-## -Typescript
+## - Typescript
 
-## -Tailwind
+## - Tailwind
 
-## -ShadcnUI
+## - ShadcnUI
 
-## -AceternityUI
+## - AceternityUI
 
-## -Clerk
+## - Clerk
 
-## -Prisma
+## - Prisma
 
-## -Zod
+## - Zod
 
-## -Next Themes
+## - Next Themes
 
-## -ThreeJS
+## - ThreeJS
 
-## -SWR
+## - SWR
